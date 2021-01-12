@@ -1,2 +1,2 @@
-SSID='1Z04hpGaUvTDULpC-sj6zBinnnndcCc4QXC6Q2A_F6QY'
+SSID='1en9ExORcqmcpKSoVVYXZeQq7ra1_Q0kg9Y-gKxXwkZI'
 SNAME=okazaki!A2:K1000
